@@ -9,23 +9,23 @@
     <packaging>pom</packaging>
     <name>AlgoTraderLight</name>
     <scm>
-        <connection></connection>
-        <developerConnection></developerConnection>
-        <url></url>
+        <connection/>
+        <developerConnection/>
+        <url/>
     </scm>
     <organization>
-        <name></name>
-        <url></url>
+        <name/>
+        <url/>
     </organization>
     <ciManagement>
-        <system></system>
+        <system/>
     </ciManagement>
     <developers>
         <developer>
-            <id></id>
+            <id/>
             <name>Andy Flury</name>
             <email>andy.flury@gmail.com</email>
-            <organization></organization>
+            <organization/>
             <roles>
                 <role>Developer</role>
             </roles>
@@ -332,10 +332,10 @@
         <application.version>1.4-SNAPSHOT</application.version>
         <dataSource.name>jdbc/${application.id}</dataSource.name>
         <dataSource>java:comp/env/${dataSource.name}</dataSource>
-        <spring.version>3.0.5.RELEASE</spring.version>
+        <spring.version>3.2.9.RELEASE</spring.version>
         <!-- SCM user ID and Password here, or in user specific settings.xml file -->
-        <username></username>
-        <password></password>
+        <username/>
+        <password/>
     </properties>
     <profiles>
         <profile>
