@@ -75,14 +75,14 @@
 		<dependency>
 			<groupId>com.espertech</groupId>
 			<artifactId>esper</artifactId>
-			<version>4.3.0</version>
+			<version>6.0.0</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>com.espertech</groupId>
 			<artifactId>esperio-csv</artifactId>
-			<version>4.3.0</version>
+			<version>6.0.0</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
@@ -123,7 +123,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>3.5.6-Final</version>
+			<version>5.1.17.Final</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
@@ -151,7 +151,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.6.1</version>
+			<version>1.7.34</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -229,7 +229,7 @@
 		<dependency>
 			<groupId>com.espertech</groupId>
 			<artifactId>esperio-socket</artifactId>
-			<version>4.2.0</version>
+			<version>6.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>quickfixj</groupId>
