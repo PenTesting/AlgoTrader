@@ -82,7 +82,7 @@
 		<dependency>
 			<groupId>com.espertech</groupId>
 			<artifactId>esperio-csv</artifactId>
-			<version>4.3.0</version>
+			<version>8.0.0</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
